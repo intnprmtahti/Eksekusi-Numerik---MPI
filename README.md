@@ -2,7 +2,8 @@
 Membahas penggunaan Numerik python pada MPI melalui Ubuntu Desktop.
 
 ## Topologi MPI Cluster
-![image](https://github.com/intnprmtahti/Eksekusi-Numerik---MPI/assets/150001747/6eda1553-c16b-441d-8b45-57bcda4edb33)
+![TOPOLOGI](https://github.com/intnprmtahti/Eksekusi-Numerik---MPI/assets/150001747/119c8e03-fac5-46a7-83cb-a5f2aa04e9cd)
+
 
 ## 1. New User
 ## 1.1 Buat User
